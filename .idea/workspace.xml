@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53983186-8f20-4fe7-8fd7-bbec3b486941" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/10.JS编程从入门到实战.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._03 variable_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._05 assignment_operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._06 string.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._07 number_and_string.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._08 Array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._09 条件判断.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._10 比较运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._11 逻辑运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._12 switch语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._13 三元运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._14 循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._15 break和continue语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._16 while循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._17 函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._18 函数返回值和函数表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._19 函数作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._20 对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._21  JSP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._22 数组常用的方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._23 map方法应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._24 字符串方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._25 字符串方法应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._26 Date日期对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._27 返回用数字时钟格式的时间.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._28 string和number相互转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._30 window对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._31 Math对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/._32 获取随机颜色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第一章 Javascript快速入门/js/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/._07 基本的缓动运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/._19 滚动监听.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/._images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._ad.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._aside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._close.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._icon-slides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/images/._img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第七章 动画/js/._myAnimation2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._02 节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._03 获取元素节点的方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._04 获取属性和设置属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._05 节点属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._06 节点对象的其它常用属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._07 节点方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._08 操作元素节点对象的样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._09 事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._10 鼠标悬浮事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._11 表单控件上的事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._12 内容选中事件和改变事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._13 窗口加载事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第三章 DOM/._DOM介绍.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._01 BOM对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._03 定时器方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._04 location对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._05 如何访问每个查询字符串参数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._06 位置操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._07 navigator对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第二章 BOM/._08 history对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第六章 事件/._20 进度条特效.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._02 显示和隐藏图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._03 衣服相册.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._04 关闭小广告.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._05 图片切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._06 图片切换-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._07 图片切换完整版.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._08 百度换肤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._09 千千音乐盒.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._10 表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._11 上传图片验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._12 随机验证码.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._13 发表评论.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._14 九宫格布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._15 九宫格布局-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._16 日期特效.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._17 定时器回顾.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._18 transform的运用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._19 数字时钟案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._20 长图滚动效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._JS特效案例介绍.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/._images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._big_pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._big_pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._big_pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._big_pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._big_pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._image01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._image02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._image03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._image04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._phone_taobao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._skin1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._skin2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._skin3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._skin4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._taobao_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/第四章 JS特效/images/._timer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/01 图片切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/02 显示和隐藏图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/03 衣服相册.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/big_pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/big_pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/big_pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/big_pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/big_pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/hour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/image01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/image02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/image03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/image04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/minute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/phone_taobao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/second.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/skin1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/skin2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/skin3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/skin4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/taobao_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/第四张 JS特效/images/timer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/01 insert_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/02 variable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/03 variable_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/04 arithmetic_operator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/05 assignment_operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/06 string.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/07 number_and_string.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/08 Array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/09 条件判断.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/10 比较运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/11 逻辑运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/12 switch语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/13 三元运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/14 循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/15 break和continue语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/16 while循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/17 函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/18 函数返回值和函数表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/19 函数作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/20 对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/21  JSP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/22 数组常用的方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/23 map方法应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/24 字符串方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/25 字符串方法应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/26 Date日期对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/27 返回用数字时钟格式的时间.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/28 Number类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/28 string和number相互转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/29 Globle对象的方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/30 window对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/31 Math对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/32 获取随机颜色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/js/first.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 Javascript快速入门/js/second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/01 js动画介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/02 简单运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/03 侧边栏效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/04 侧边栏动画效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/06 侧边栏动画封装.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/07 基本的缓动运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/08 缓动运动封装.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/09 透明度动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/10 多物体运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/11 获取属性样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/12 多物体运动完整版.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/13 多值运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/14 多值运动-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/15 链式动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/16 JSON.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/16 同时运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/17 联动效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/18 侧边栏横幅效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/19 滚动监听.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/images/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/images/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/images/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/20 轮播图特效/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/ad.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/aside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/close.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/float.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/icon-slides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/images/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/js/myAnimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/js/myAnimation2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第七章 动画/my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/01 认识DOM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/02 节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/03 获取元素节点的方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/04 获取属性和设置属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/05 节点属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/06 节点对象的其它常用属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/07 节点方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/08 操作元素节点对象的样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/09 事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/10 鼠标悬浮事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/11 表单控件上的事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/12 内容选中事件和改变事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/13 窗口加载事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 DOM/DOM介绍.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/01 作用域的内部原理介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/02 编译(了解).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/03 执行(了解).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/04 查询.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/05 嵌套(重要).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/06 异常(了解).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/07 案例体现.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/08 词法作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/09 遮蔽.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/10 变量声明提升.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/11 函数声明提升.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/12 声明注意事项.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/13 作用域链.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/14 执行上下文环境.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/15 执行环境和执行流.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/16 执行环境栈.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第九章 深入理解作用域/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/01 BOM对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/02 window对象常用方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/03 定时器方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/04 location对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/05 如何访问每个查询字符串参数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/06 位置操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/07 navigator对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 BOM/08 history对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/01 offset家族/01 定位父级.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/01 offset家族/02 offsetWidth和offsetHeight.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/01 offset家族/03 offsetTop和offsetLeft.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/01 offset家族/04 当前元素的页面偏移量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/02 client家族/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/03 scroll家族/01 scrollHeight和scrollWidth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/03 scroll家族/02 scrollTop和scrollLeft.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/03 scroll家族/03 页面滚动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章 offset、client、scroll家族/03 scroll家族/04 滚动方法scrollTo().html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/01 函数的声明方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/02 函数返回值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/03 函数调用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/04 函数参数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/05 函数重载.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/06 参数传递.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/07 函数属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/08 函数的方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/09 call和apply方法的应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章 深入理解函数/10 bind方法的用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/01 事件的历史.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/02 事件冒泡介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/03 事件捕获介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/04 HTML事件处理程序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/05 DOM0级事件处理程序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/06 DOM2级事件处理程序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/07 IE事件处理程序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/08 事件绑定兼容写法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/09 事件的调用顺序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/10 如何获取事件对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/11 事件目标对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/12 事件代理.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/13 如何给未来的元素添加事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/14 事件冒泡.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/15 事件流阶段.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/16 取消默认行为.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/17 鼠标事件对象属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/18 事件总结.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/19 放大镜案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/20 进度条特效.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/images/dotted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/images/image-20190507142910045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/images/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第六章 事件/images/photo01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/01 this的绑定规则-默认绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/02 隐式绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/03 隐式丢失.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/04 显示绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/05 new绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/06 严格模式下this的指向.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十一章 this指向深入/07 this总结.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三章 正则表达式/01 正则表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三章 正则表达式/02 正则表达式案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十三章 正则表达式/正则笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/基于面向对象的选项卡/01 面向过程的选项卡.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/基于面向对象的选项卡/02 面向对象实现选项卡一.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/基于面向对象的选项卡/03 面向对象实现选项卡二.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/基于面向对象的选项卡/js/TabSwitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/模块化/02 命名空间.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/模块化/js/module1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/模块化/js/namespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/模块化/js/namespace_sub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/模块化/前端模块化.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/01 本章内容介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/02 对象是什么.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/03 构造函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/04 new命令原理.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/05 constructor属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/06 使用构造函数创建对象的利与弊.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/07 原型对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/08 弄清楚原型对象、实例对象、构造函数三者的关系.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/09 prototype属性的作用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/10 原型链.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/11 constructor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/12 原型对象、构造函数、实例对象总结.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/13 对象的字面量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/14 工厂模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/15 构造函数模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/16 构造函数拓展模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/17 寄生构造函数模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/18 稳妥构造函数模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/19 原型模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/20 组合模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/21 动态原型模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/22 创建对象的模式方法总结.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/23 原型链继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/24 借用构造函数继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/25 组合继承(原型链和借用构造函数组合).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/26 寄生组合式继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/27 继承总结.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/28 多重继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/29 Object对象本身的方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/30 Object的实例方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/32 属性描述对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/33 getOwnPropertyDescriptor().html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/34 defineProperty()方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/35 defineProperties()方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/36 属性描述对象中相关属性介绍一.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/37 属性描述对象中相关属性介绍二.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/38 configurable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/39 存取器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/40 浅拷贝.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十二章 面向对象编程/面向对象代码/41 深拷贝.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/01 理解闭包.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/02 闭包的用途.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/03 闭包的注意点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/04 立即执行函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/05 自执行函数应用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/06 对循环和闭包的错误理解.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第十章 深入理解闭包/07 闭包的10种形式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/01 图片切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/02 显示和隐藏图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/03 衣服相册.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/04 关闭小广告.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/05 图片切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/06 图片切换-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/07 图片切换完整版.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/08 百度换肤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/09 千千音乐盒.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/10 表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/11 上传图片验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/12 随机验证码.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/13 发表评论.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/14 九宫格布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/15 九宫格布局-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/16 日期特效.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/17 定时器回顾.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/18 transform的运用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/19 数字时钟案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/20 长图滚动效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/JS特效案例介绍.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/big_pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/big_pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/big_pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/big_pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/big_pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/hour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/image01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/image02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/image03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/image04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/minute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/phone_taobao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/second.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/skin1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/skin2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/skin3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/skin4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/taobao_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 JS特效/images/timer.jpeg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第四章 JS特效/03 衣服相册.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/第四张 JS特效/03 衣服相册.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第四章 JS特效/04 关闭小广告.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my/第四张 JS特效/01 图片切换.html" />
+        <option value="$PROJECT_DIR$/my/第四张 JS特效/02 显示和隐藏图片.js" />
+        <option value="$PROJECT_DIR$/my/第四张 JS特效/02 显示和隐藏图片.html" />
+        <option value="$PROJECT_DIR$/my/第四张 JS特效/03 衣服相册.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1582" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="10.JS编程从入门到实战" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="10.JS编程从入门到实战" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.03 衣服相册.html (1)">
+    <configuration name="01 图片切换.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/10.JS编程从入门到实战/my/第四张 JS特效/01 图片切换.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="02 显示和隐藏图片.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/10.JS编程从入门到实战/my/第四张 JS特效/02 显示和隐藏图片.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="03 衣服相册.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/10.JS编程从入门到实战/my/第四张 JS特效/03 衣服相册.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="03 衣服相册.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/10.JS编程从入门到实战/第四章 JS特效/03 衣服相册.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="04 关闭小广告.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/10.JS编程从入门到实战/第四章 JS特效/04 关闭小广告.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.03 衣服相册.html (1)" />
+        <item itemvalue="JavaScript Debug.04 关闭小广告.html" />
+        <item itemvalue="JavaScript Debug.03 衣服相册.html" />
+        <item itemvalue="JavaScript Debug.01 图片切换.html" />
+        <item itemvalue="JavaScript Debug.02 显示和隐藏图片.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53983186-8f20-4fe7-8fd7-bbec3b486941" name="Default Changelist" comment="" />
+      <created>1604119819603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604119819603</updated>
+      <workItem from="1604119820875" duration="5411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5411000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my/第四张 JS特效/02 显示和隐藏图片.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 JS特效/02 显示和隐藏图片.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/第四张 JS特效/01 图片切换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/第四张 JS特效/02 显示和隐藏图片.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 JS特效/03 衣服相册.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 JS特效/04 关闭小广告.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/第四张 JS特效/03 衣服相册.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

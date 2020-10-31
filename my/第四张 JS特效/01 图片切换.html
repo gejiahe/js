@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<img src="images/image01.jpg" id="flower" width="200" height="200">
+	<br>
+	<button id="prev">上一张</button>
+	<button id="next">下一张</button>
+
+	<script>
+		var flower=document.getElementById("flower");
+		var prevBtn=document.getElementById("prev");
+		var nextBtn=document.getElementById("next");
+		var minIndex=1;
+		var maxIndex=4;
+		var currentIndex=minIndex;
+
+		nextBtn.onclick=function(){
+			if(currentIndex==maxIndex){
+				currentIndex=minIndex;
+			}else{
+				currentIndex++
+			}
+			flower.setAttribute("src",`images/image0${currentIndex}.jpg`);
+		};
+
+		prevBtn.onclick=function(){
+			if(currentIndex==minIndex){
+				currentIndex=maxIndex;
+			}else{
+				currentIndex--
+			}
+			flower.setAttribute("src",`images/image0${currentIndex}.jpg`);
+		};
+	</script>
+</body>
+</html>
