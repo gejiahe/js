@@ -116,17 +116,17 @@
                 var _this = this;
                 // 页面动画起来
                 startAnimation(document.documentElement, {
-                    "scrollTop": this.index * (document.body.clientHeight)
+                    "scrollTop": this.侧边栏动画 * (document.body.clientHeight)
                 }, function() {
                     isClick = false;
                     // 这是跳转的页面
-	                if (_this.index == lis.length - 1) {
+	                if (_this.侧边栏动画 == lis.length - 1) {
 	                    alert(111);
 	                    window.open('https://www.baidu.com');
 	                }
                 })
 
-                
+
                 // document.documentElement.scrollTop = this.index * document.body.clientHeight;
 
             }

@@ -10,7 +10,7 @@ function TabSwitch(fatherObj) {
 		this.tabLis[i].index = i;
 		this.tabLis[i].onclick = function() {
 			// this
-			_this.clickFun(this.index);
+			_this.clickFun(this.侧边栏动画);
 		}
 	}
 }

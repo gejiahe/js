@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #box{
+            width: 200px;
+            height: 200px;
+            background-color: #ff0000;
+            position: relative;
+            left: -200px;
+        }
+        #box span{
+
+            width: 40px;
+            height: 60px;
+            background-color: #000000;
+            color:#ffffff;
+
+            /*位置*/
+            position: absolute;
+            right: -40px;
+            top:50%;
+            margin-top: -30px;
+
+            text-align: center;
+            line-height: 60px;
+
+        }
+    </style>
+</head>
+<body>
+<div id="box">
+    <span>出来</span>
+</div>
+<script>
+    // window.onload=function () {
+    //    var box=document.getElementById("box");
+    //    // var span=document.getElementsByTagName("span")[0];
+    //    box.onmouseover=function () {
+    //        this.style.left=0+'px';
+    //    };
+    //    box.onmouseout=function () {
+    //        this.style.left=-200+'px';
+    //    }
+    // }
+
+    window.onload=function () {
+        var box=document.getElementById("box");
+        var timer=null;
+        box.onmouseover=function () {
+            clearInterval(timer);
+            timer=setInterval(function () {
+                if(box.offsetLeft===0){
+                    clearInterval(timer);
+                    return;
+                }
+                box.style.left=box.offsetLeft+5+"px";
+            },30)
+        };
+        box.onmouseout=function () {
+            clearInterval(timer);
+            timer=setInterval(function () {
+                if(box.offsetLeft===-200){
+                    clearInterval(timer);
+                    return;
+                }
+                box.style.left=box.offsetLeft-5+"px";
+            },30)
+        }
+    }
+</script>
+</body>
+</html>
